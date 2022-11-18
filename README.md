@@ -40,7 +40,7 @@ Use the following available resources to get help:
 
 - [Symbol Documentation][docs]
 - [Symbol SDK Typescript/Javascript Reference][sdk-ref]
-- Join the community [slack group (#sig-api)][slack]
+- Join the community [dHealth Community Discord][discord]
 - If you found a bug, [open a new issue][issues]
 
 ## Contributing
@@ -55,9 +55,9 @@ You can also find useful notes for developers under our documentation [guideline
 Copyright (c) 2018-present NEM
 Licensed under the [Apache License 2.0](LICENSE)
 
-[self]: https://github.com/nemtech/symbol-sdk-typescript-javascript
+[self]: https://dhealthproject.github.com/sdk-typescript
 [docs]: http://docs.symbol.dev/getting-started/setup-workstation.html
-[issues]: https://github.com/nemtech/symbol-sdk-typescript-javascript/issues
-[sdk-ref]: https://docs.symbol.dev/references/typescript-sdk.html
-[guidelines]: https://nemtech.github.io/contribute/contributing.html#sdk
-[slack]: https://join.slack.com/t/nem2/shared_invite/enQtMzY4MDc2NTg0ODgyLWZmZWRiMjViYTVhZjEzOTA0MzUyMTA1NTA5OWQ0MWUzNTA4NjM5OTJhOGViOTBhNjkxYWVhMWRiZDRkOTE0YmU
+[issues]: https://dhealthproject.github.com/sdk-typescript/issues
+[sdk-ref]: https://dhealthproject.github.com/sdk-typescript/1.0.2
+[guidelines]: https://docs.symbol.dev/contribute/contributing.html#sdk
+[discord]: https://discord.com/channels/856324454246383637
