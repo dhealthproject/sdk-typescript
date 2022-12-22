@@ -32,7 +32,7 @@ import { Http } from './Http';
 export class FinalizationHttp extends Http implements FinalizationRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client Finalization routes api
+     * dHealth openapi typescript-node client Finalization routes api
      */
     private finalizationRoutesApi: FinalizationRoutesApi;
 

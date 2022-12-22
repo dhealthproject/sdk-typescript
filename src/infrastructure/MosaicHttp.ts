@@ -39,7 +39,7 @@ import { MosaicSearchCriteria } from './searchCriteria/MosaicSearchCriteria';
 export class MosaicHttp extends Http implements MosaicRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client mosaic routes api
+     * dHealth openapi typescript-node client mosaic routes api
      */
     private readonly mosaicRoutesApi: MosaicRoutesApi;
 

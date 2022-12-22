@@ -36,7 +36,7 @@ import { HashLockSearchCriteria } from './searchCriteria/HashLockSearchCriteria'
 export class HashLockHttp extends Http implements HashLockRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client account routes api
+     * dHealth openapi typescript-node client account routes api
      */
     private hashLockRoutesApi: HashLockRoutesApi;
 

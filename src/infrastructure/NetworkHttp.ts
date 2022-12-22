@@ -50,7 +50,7 @@ import { NodeHttp } from './NodeHttp';
 export class NetworkHttp extends Http implements NetworkRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client account routes api
+     * dHealth openapi typescript-node client account routes api
      */
     private readonly nodeHttp: NodeHttp;
     private readonly networkRoutesApi: NetworkRoutesApi;

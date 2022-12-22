@@ -47,7 +47,7 @@ import { NamespaceSearchCriteria } from './searchCriteria/NamespaceSearchCriteri
 export class NamespaceHttp extends Http implements NamespaceRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client namespace routes api
+     * dHealth openapi typescript-node client namespace routes api
      */
     private namespaceRoutesApi: NamespaceRoutesApi;
 

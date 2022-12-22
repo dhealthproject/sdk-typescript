@@ -36,7 +36,7 @@ import { SecretLockRepository } from './SecretLockRepository';
 export class SecretLockHttp extends Http implements SecretLockRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client account routes api
+     * dHealth openapi typescript-node client account routes api
      */
     private secretLockRoutesApi: SecretLockRoutesApi;
 

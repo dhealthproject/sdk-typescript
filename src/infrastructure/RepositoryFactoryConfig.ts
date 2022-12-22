@@ -48,7 +48,7 @@ export interface RepositoryFactoryConfig {
     epochAdjustment?: number;
 
     /**
-     * The preconfigured symbol network currencies for offline access. They are loaded from server by default if not provided.
+     * The preconfigured dHealth network currencies for offline access. They are loaded from server by default if not provided.
      */
     networkCurrencies?: NetworkCurrencies;
 

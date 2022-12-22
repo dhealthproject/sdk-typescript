@@ -40,7 +40,7 @@ import { BlockSearchCriteria } from './searchCriteria/BlockSearchCriteria';
 export class BlockHttp extends Http implements BlockRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client block routes api
+     * dHealth openapi typescript-node client block routes api
      */
     private readonly blockRoutesApi: BlockRoutesApi;
 
