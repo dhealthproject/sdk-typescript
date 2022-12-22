@@ -30,7 +30,7 @@ import { TransactionStatusRepository } from './TransactionStatusRepository';
 export class TransactionStatusHttp extends Http implements TransactionStatusRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client transaction status routes api
+     * dHealth openapi typescript-node client transaction status routes api
      */
     private transactionStatusRoutesApi: TransactionStatusRoutesApi;
 

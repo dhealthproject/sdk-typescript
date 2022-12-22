@@ -19,7 +19,7 @@ import { Page } from '../Page';
 import { SearchCriteria } from '../searchCriteria/SearchCriteria';
 
 /**
- *  Objects of this interface know how to search symbol objects based on a criteria returning a page of these objects.
+ *  Objects of this interface know how to search dHealth objects based on a criteria returning a page of these objects.
  * @param <E> The entity model type
  * @param <C> The type of the criteria with the search filter
  */

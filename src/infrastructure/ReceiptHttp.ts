@@ -38,7 +38,7 @@ import { TransactionStatementSearchCriteria } from './searchCriteria/Transaction
 export class ReceiptHttp extends Http implements ReceiptRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client receipt routes api
+     * dHealth openapi typescript-node client receipt routes api
      */
     private readonly receiptRoutesApi: ReceiptRoutesApi;
 

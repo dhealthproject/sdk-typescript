@@ -35,7 +35,7 @@ import { AccountSearchCriteria } from './searchCriteria';
 export class AccountHttp extends Http implements AccountRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client account routes api
+     * dHealth openapi typescript-node client account routes api
      */
     private accountRoutesApi: AccountRoutesApi;
 

@@ -40,7 +40,7 @@ import { MetadataSearchCriteria } from './searchCriteria/MetadataSearchCriteria'
 export class MetadataHttp extends Http implements MetadataRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client metadata routes api
+     * dHealth openapi typescript-node client metadata routes api
      */
     private readonly metadataRoutesApi: MetadataRoutesApi;
 

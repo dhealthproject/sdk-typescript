@@ -95,7 +95,7 @@ describe('NetworkCurrencyPublic', () => {
     });
 
     it('should have valid statics', () => {
-        deepEqual(NetworkCurrencyPublic.namespaceId!.id, new NamespaceId([1106554862, 3880491450]).id);
+        deepEqual(NetworkCurrencyPublic.namespaceId!.id, new NamespaceId([3141628727, 2643013837]).id);
         expect(NetworkCurrencyPublic.divisibility).to.be.equal(6);
         expect(NetworkCurrencyPublic.transferable).to.be.equal(true);
         expect(NetworkCurrencyPublic.supplyMutable).to.be.equal(false);

@@ -32,7 +32,7 @@ import { MultisigRepository } from './MultisigRepository';
 export class MultisigHttp extends Http implements MultisigRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client account routes api
+     * dHealth openapi typescript-node client account routes api
      */
     private readonly multisigRoutesApi: MultisigRoutesApi;
 

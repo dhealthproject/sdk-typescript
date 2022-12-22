@@ -30,7 +30,7 @@ import { NodeRepository } from './NodeRepository';
 export class NodeHttp extends Http implements NodeRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client account routes api
+     * dHealth openapi typescript-node client account routes api
      */
     private readonly nodeRoutesApi: NodeRoutesApi;
 

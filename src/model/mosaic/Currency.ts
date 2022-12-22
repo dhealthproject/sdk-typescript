@@ -27,7 +27,7 @@ export class Currency {
     /**
      * Currency for public / Public_test network.
      *
-     * This represents the per-network currency mosaic. This mosaicId is aliased with namespace name `symbol.xym`.
+     * This represents the per-network currency mosaic. This mosaicId is aliased with namespace name `dhealth.dhp`.
      *
      * This simplifies offline operations but general applications should load the currency from the repository factory and network currency service.
      *
@@ -35,7 +35,7 @@ export class Currency {
      *
      */
     public static readonly PUBLIC = new Currency({
-        namespaceId: new NamespaceId('symbol.xym'),
+        namespaceId: new NamespaceId('dhealth.dhp'),
         divisibility: 6,
         transferable: true,
         supplyMutable: false,

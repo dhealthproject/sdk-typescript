@@ -30,7 +30,7 @@ import { Http } from './Http';
 export class ChainHttp extends Http implements ChainRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client chain routes api
+     * dHealth openapi typescript-node client chain routes api
      */
     private chainRoutesApi: ChainRoutesApi;
 

@@ -17,7 +17,7 @@
 import { Currency } from './Currency';
 
 /**
- * Object holding the symbol network currencies, main and harvest.
+ * Object holding the dHealth network currencies, main and harvest.
  */
 export class NetworkCurrencies {
     /**

@@ -48,13 +48,13 @@ import { TransactionRepository } from './TransactionRepository';
 export class TransactionHttp extends Http implements TransactionRepository {
     /**
      * @internal
-     * Symbol openapi typescript-node client transaction routes api
+     * dHealth openapi typescript-node client transaction routes api
      */
     private transactionRoutesApi: TransactionRoutesApi;
 
     /**
      * @internal
-     * Symbol openapi typescript-node client blockchain routes api
+     * dHealth openapi typescript-node client blockchain routes api
      */
     private blockRoutesApi: BlockRoutesApi;
 
